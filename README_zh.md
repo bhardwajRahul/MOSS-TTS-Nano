@@ -195,9 +195,6 @@ moss-tts-nano serve
 
 ### 介绍
 
-<p align="center">
-  <img src="./assets/images/moss_tts_family.jpeg" width="85%" />
-</p>
 
 **MOSS-TTS 家族**是 OpenMOSS 开源的语音与声音生成模型系列，面向自然语音、高表现力表达、长文本稳定生成、多说话人交互、音色设计、音效生成以及实时语音响应等任务。
 
@@ -209,6 +206,10 @@ moss-tts-nano serve
 - **MOSS-VoiceGenerator**：音色设计模型，可直接根据**文本提示**生成多样的音色与说话风格，不需要参考音频。
 - **MOSS-SoundEffect**：可控音效生成模型，支持自然环境、城市场景、生物、人类动作和短音乐化片段等声音生成。
 - **MOSS-TTS-Realtime**：面向低延迟语音智能体的实时语音模型，强调多轮回复中的自然性、连贯性和音色一致性。
+
+<p align="center">
+  <img src="./assets/images/moss_tts_family.jpeg" width="85%" />
+</p>
 
 ### 已发布模型
 
